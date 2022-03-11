@@ -14,26 +14,8 @@
 
 
 
-
-# Swot Analysis
-## Strengths
-- We can use with less power
-- Not connected to the internet
-
-
-## Weakness
-- •	We can only lock and unlock the system within the required range 
-- complex System 
-
-
-## opportunities
-- Advancement in Technology.
-- Low cost and economical
-
-
-## Threats
-- Components damage 
-- Power failure cant have charge backup until resolved
+# SWOT Analysis
+![SWOT_page-0001](https://user-images.githubusercontent.com/98816316/157918397-18273306-c3af-409a-9e9a-3b57ad97d1ad.jpg)
 
 # 4W's And 1H
 
