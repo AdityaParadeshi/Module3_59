@@ -18,25 +18,9 @@
 
 
 
+# SWOT Analysis
+![SWOT_page-0001](https://user-images.githubusercontent.com/98816316/157918397-18273306-c3af-409a-9e9a-3b57ad97d1ad.jpg)
 
-# Swot Analysis
-## Strengths
-- Remote Starting
-- Time is saved during urgent situation
-- Support for Effecient operation.
-
-## Weakness
-- cost of system may be increased
-- complex System 
-- issues of engine running after parking the car
-
-## opportunities
-- Advancement in Technology.
-
-
-## Threats
-- Targated Attacks
-- Identity Theft
 
 # 4W's And 1H
 
