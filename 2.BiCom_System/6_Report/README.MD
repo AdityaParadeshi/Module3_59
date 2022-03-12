@@ -90,3 +90,8 @@
 |LLT3 |test for car battery info |Switch is pressed Thrice |All the led's are turned ON in clockwise direction  |All the led's are turned ON in clockwise direction  |pass | 
 |LLT4 |test for Door status|Switch is pressed 4 times |All the led's are turned ON in anticlockwise direction  |All the led's are turned ON in anticlockwise direction  |pass |
 
+## Output
+
+
+https://user-images.githubusercontent.com/73412166/157995279-c7a6e484-272d-4a21-9dd0-435e1b1f6c52.mp4
+
